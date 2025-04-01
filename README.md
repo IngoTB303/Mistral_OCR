@@ -1,6 +1,6 @@
 # Mistral OCR Tool
 
-This Python program allows you to select a PDF file, send it to Mistral's OCR API for text and image extraction, and save the resulting processed PDF file to a location of your choice.
+This Python program allows you to select a PDF file, send it to Mistral's OCR API for text and image extraction, and save the resulting processed PDF file to a location of your choice. Big thanks to: https://github.com/mistralai/cookbook/blob/main/third_party/gradio/MistralOCR.md
 
 ## Features
 - Select a PDF file using a graphical file dialog.
